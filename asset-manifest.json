@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Profile/static/css/main.41d159eb.css",
-    "main.js": "/Profile/static/js/main.923fdbcd.js",
-    "static/js/453.475bbf79.chunk.js": "/Profile/static/js/453.475bbf79.chunk.js",
-    "static/media/aripPf1.png": "/Profile/static/media/aripPf1.23c42e87a890d70e2d1b.png",
-    "static/media/Iris.jpg": "/Profile/static/media/Iris.6ad0117d6aab53f91c69.jpg",
-    "static/media/react.png": "/Profile/static/media/react.81ed438b18e24116794d.png",
-    "static/media/Python.png": "/Profile/static/media/Python.dea924d737bb84eb9ce3.png",
-    "static/media/aripPf2.png": "/Profile/static/media/aripPf2.55a66f094ba78f9d9287.png",
-    "static/media/Semiclon.jpg": "/Profile/static/media/Semiclon.73d16e3c10c31201dde1.jpg",
-    "static/media/foto90.jpg": "/Profile/static/media/foto90.11c54c248bd9f0fd79e3.jpg",
-    "static/media/php.png": "/Profile/static/media/php.4990580e9b615aeebb1f.png",
-    "static/media/C++.png": "/Profile/static/media/C++.24a8f93854ab092f17a7.png",
-    "index.html": "/Profile/index.html",
-    "main.41d159eb.css.map": "/Profile/static/css/main.41d159eb.css.map",
-    "main.923fdbcd.js.map": "/Profile/static/js/main.923fdbcd.js.map",
-    "453.475bbf79.chunk.js.map": "/Profile/static/js/453.475bbf79.chunk.js.map"
+    "main.css": "/profilarip/static/css/main.41d159eb.css",
+    "main.js": "/profilarip/static/js/main.53fccab2.js",
+    "static/js/453.475bbf79.chunk.js": "/profilarip/static/js/453.475bbf79.chunk.js",
+    "static/media/aripPf1.png": "/profilarip/static/media/aripPf1.23c42e87a890d70e2d1b.png",
+    "static/media/Iris.jpg": "/profilarip/static/media/Iris.6ad0117d6aab53f91c69.jpg",
+    "static/media/react.png": "/profilarip/static/media/react.81ed438b18e24116794d.png",
+    "static/media/Python.png": "/profilarip/static/media/Python.dea924d737bb84eb9ce3.png",
+    "static/media/aripPf2.png": "/profilarip/static/media/aripPf2.55a66f094ba78f9d9287.png",
+    "static/media/Semiclon.jpg": "/profilarip/static/media/Semiclon.73d16e3c10c31201dde1.jpg",
+    "static/media/foto90.jpg": "/profilarip/static/media/foto90.11c54c248bd9f0fd79e3.jpg",
+    "static/media/php.png": "/profilarip/static/media/php.4990580e9b615aeebb1f.png",
+    "static/media/C++.png": "/profilarip/static/media/C++.24a8f93854ab092f17a7.png",
+    "index.html": "/profilarip/index.html",
+    "main.41d159eb.css.map": "/profilarip/static/css/main.41d159eb.css.map",
+    "main.53fccab2.js.map": "/profilarip/static/js/main.53fccab2.js.map",
+    "453.475bbf79.chunk.js.map": "/profilarip/static/js/453.475bbf79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41d159eb.css",
-    "static/js/main.923fdbcd.js"
+    "static/js/main.53fccab2.js"
   ]
 }
